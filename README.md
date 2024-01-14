@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Utkarsh. I work on full-stack development using MERN. Right now, I'm learning Rust and also busy creating an Online Learning Platform. Cool, right?
+Hey! I'm Utkarsh. I work on full-stack development using MERN. Right now, I'm learning JavaScript and also busy creating an Online Learning Platform. Cool, right?
 
 
 ## 🌐 Socials:
