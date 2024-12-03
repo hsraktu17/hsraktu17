@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey! I'm Utkarsh. I work on full-stack development using MERN. Right now, I'm learning JavaScript and also busy creating an Online Learning Platform. Cool, right?
-
+Hey! I'm Utkarsh. I work on full-stack development using MERN.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Im__Utkarsh) 
